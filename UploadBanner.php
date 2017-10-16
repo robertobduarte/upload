@@ -3,7 +3,7 @@
 //require __DIR__ . '/Iupload.php';
 
 
-class UploadBanner extends Iupload {
+class Upload extends Iupload {
 	
 	function __construct( $dados ){
 
